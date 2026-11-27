@@ -1,0 +1,2 @@
+Student performance Analysis
+This project analyzes student attendance and examination marks.
